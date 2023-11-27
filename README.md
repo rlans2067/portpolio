@@ -1,1 +1,1 @@
-# portpolio
+# EC2에 Flask 서버를 구축하기 위한 실습 포함
